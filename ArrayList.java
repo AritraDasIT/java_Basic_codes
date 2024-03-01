@@ -4,7 +4,7 @@ public class Main
 {
 	public static void main(String[] args) {
 		
-		ArrayList<Integer> list1 = new ArrayList<>();            // Declaring the  Integer ArrayList
+		ArrayList<Integer> list1 = new ArrayList<>();            // Declaring the  Integer ArrayList 
 		ArrayList<String>  list2 = new ArrayList<>();            // Declaring the String  ArrayList
 		ArrayList<Double>  list3 = new ArrayList<>();           // Declaring the Float ArrayList
 		
