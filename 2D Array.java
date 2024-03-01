@@ -10,7 +10,7 @@ public class Main
 		int row= sc.nextInt();
 		System.out.println("Enter Columns: ");
 		int column = sc.nextInt();
-		
+		 
 		
 		int number[][]=new int[row][column]; // declare 2D array
 		
