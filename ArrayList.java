@@ -85,3 +85,24 @@ public class Main
 
 	}
 }
+
+ /*  Output
+
+Array 1:[]
+Array 2:[]
+Array 3:[]
+Array 1:[1, 12, 25]
+Array 2:[AD, BC, CA]
+Array 3:[2.2, 1.22, 85.5]
+85.5
+BC
+1
+[1, 87, 12, 25]
+[bg, AD, BC, CA]
+[1, 87, 45, 25]
+[bg, AD, CA]
+4
+1874525
+[1, 25, 45, 87]
+
+	*/
